@@ -1,0 +1,170 @@
+
+---
+
+## 🎨 Sprites and Characters
+
+* **Horror Monster Battler Sprite Pack** di invalid-user621; 
+[https://invalid-user621.itch.io/horror-monster-battler-sprite-pack]
+* **Watercolour Monster Pack** di metalsnail; 
+[https://metalsnail.itch.io/watercolour-monster-pack]
+* **The Mighty Pack** di themightypalm; 
+[https://themightypalm.itch.io/the-mighty-pack]
+* **95% Off Ultimate Portrait Pack**; 
+[https://itch.io/s/121612/95-off-ultimate-portrait-pack]
+
+---
+
+## 🗺️ Tilesets
+
+* **Damp Dungeons** di arex‑v; 
+[https://arex-v.itch.io/damp-dungeons]
+* **Modern Exteriors** di limezu; 
+[https://limezu.itch.io/modernexteriors]
+* **Chronicle Tileset Pack** di wardwellgames; 
+[https://wardwellgames.itch.io/chronicle-tileset-pack]
+* **Ashlands Tileset** di finalbossblues; 
+[https://finalbossblues.itch.io/ashlands-tileset]
+* **TF Jungle Tileset** di finalbossblues; 
+[https://finalbossblues.itch.io/tf-jungle-tileset]
+* **Atlantis Tileset** di finalbossblues; 
+[https://finalbossblues.itch.io/atlantis-tileset]
+* **Dark Dimension Tileset** di finalbossblues; 
+[https://finalbossblues.itch.io/dark-dimension-tileset]
+* **TF Beach Tileset** di finalbossblues; 
+[https://finalbossblues.itch.io/tf-beach-tileset]
+* **Fantasy** di arex‑v; 
+[https://arex-v.itch.io/fantasy]
+* **Occult Steampunk** di arex‑v; 
+[https://arex-v.itch.io/occult-steampunk]
+* **Pocket pack walling** di eldrichryptid; 
+[https://eldrichryptid.itch.io/pocket-pack-walling]
+* **Pocket pack construct** di eldrichryptid; 
+[https://eldrichryptid.itch.io/pocket-pack-constructs]
+* **Pocket pack construct** di eldrichryptid; 
+[https://eldrichryptid.itch.io/pocket-pack-walling]
+* **Pocket pack carpentry** di eldrichryptid; 
+[https://eldrichryptid.itch.io/pocket-pack-carpentry]
+* **Legacy bundle** di eldrichryptid; 
+[https://eldrichryptid.itch.io/legacy-bundle]
+* **Dark castle tileset** di fabian fuchs; 
+[https://fabian-fuchs.itch.io/dark-castle-tileset]
+* **Skyscraper buildings** di old ninja cat; 
+[https://oldninjacat.itch.io/skyscraper-buildings]
+
+https://opengameart.org/content/1800-isometric-wall-tiles
+https://opengameart.org/content/1000-isometric-floor-tiles
+https://opengameart.org/content/380-isometric-crates
+https://opengameart.org/content/isometric-floor-textures
+https://opengameart.org/content/5000-isometric-pathway-tiles
+https://opengameart.org/content/5000-isometric-pathway-tiles
+https://opengameart.org/content/700-isometric-road-tiles
+https://opengameart.org/content/1700-isometric-doorways
+https://opengameart.org/content/seamless-abstract-pack
+https://opengameart.org/content/300-isometric-overworld-tiles
+https://opengameart.org/content/400-isometric-town-tiles
+https://opengameart.org/content/sandbox-style-terrain-pack
+https://opengameart.org/content/300-isometric-object-tiles
+https://opengameart.org/content/2d-planet-pack-2
+---
+
+## 🔌 Plugin & Script
+
+* **Smooth Battle Log 2.0 **; 
+[https://forums.rpgmakerweb.com/index.php?threads/smooth-battle-log-2-0-mz.131465/]
+* **Event Spawner** di cocomode; 
+[https://cocomode.itch.io/event-spawner]
+* **Enemy Levels Plugin for RPG Maker MZ** di cocomode; 
+[https://cocomode.itch.io/enemy-levels-plugin-for-rpg-maker-mz]
+* **Customized Dynamically Generated Chest Loot** di cocomode; 
+[https://cocomode.itch.io/customized-dynamically-generated-chest-loot-for-rpg-maker-mz]
+* **Revealed Area Map for RPG Maker MZ** di cocomode; 
+[https://cocomode.itch.io/revealed-area-map-for-rpg-maker-mz]
+* **TurnInPlace.js** di mjshi; 
+[https://github.com/mjshi/RPGMakerRepo/blob/master/TurnInPlace.js]
+* **OZZ\_DebugPasability.js** di orochii; 
+[https://github.com/orochii/RMXPVXA-Scripts/blob/master/MZ/OZZ\_DebugPasability.js]
+* **SLIM’s This and That’s **; 
+[https://forums.rpgmakerweb.com/index.php?threads/slims-this-and-thats-mz-edition.125627/]
+* **CandaCi’s Resources for MZ**; 
+[https://forums.rpgmakerweb.com/index.php?threads/candacis-resources-for-mz.126137/]
+* **Avery’s Experimental XP→MZ Conversions**; 
+[https://forums.rpgmakerweb.com/index.php?threads/averys-experimental-xp-to-mz-conversions-default-and-original.153808/]
+* **Eli zoom for RpgMaker MZ**; 
+[https://hakuenstudio.itch.io/eli-zoom-for-rpg-maker-mz]
+* **Better loader by tendev2d**; 
+[https://tendev2d.itch.io/better-loader]
+
+---
+
+## 🖥️ UI & Animazioni
+
+* **Pixel UI & SFX Pack** di jdsherbert; 
+[https://jdsherbert.itch.io/pixel-ui-sfx-pack]
+* **Effekseer Animation MZ** di nowis‑337; 
+[https://nowis-337.itch.io/effekseer-animation-mz]
+* **Three Red Hearts; 
+Prepare to Dev** di tallbeard; 
+[https://tallbeard.itch.io/three-red-hearts-prepare-to-dev]
+
+---
+
+## 📜 Maps
+
+* **Europa MZ Free Semi‑Detailed Map of Europe**; 
+[https://forums.rpgmakerweb.com/index.php?threads/europa-mz-free-semi-detailed-map-of-europe.125607/]
+* **The Metropolitan Museum of Art – Collection Search **; 
+[https://www.metmuseum.org/art/collection/search?page=3\&searchField=AccessionNum]
+
+---
+
+## 🎶 Music
+
+* **Creepy Forest F** ; 
+[https://opengameart.org/content/creepy-forest-f]
+* **Cave Theme** ; 
+[https://opengameart.org/content/cave-theme]
+* **Swamp Environment Audio** ; 
+[https://opengameart.org/content/swamp-environment-audio]
+* **Ambient Noise** ; 
+[https://opengameart.org/content/ambient-noise]
+* **Ambient Mountain, River, Wind & Waterfall** ; 
+[https://opengameart.org/content/ambient-mountain-river-wind-and-forest-and-waterfall]
+* **Music Loop Bundle** di tallbeard; 
+[https://tallbeard.itch.io/music-loop-bundle]
+* **Music Loops** di comigo; 
+[https://comigo.itch.io/music-loops]
+* **Techno Trance Melodic Techno 03 ** di moogify; 
+[https://pixabay.com/music/techno-trance-melodic-techno-03-extended-version-moogify-9867/]
+* **Techno Trance Dark Dub Techno – Somewhere We Got Lost**; 
+[https://pixabay.com/music/techno-trance-dark-dub-techno-somewhere-we-got-lost-no-copyright-music-144827/]
+
+Zane Little Music https://opengameart.org/content/shortcuts#:~:text=Tags%3A
+
+* **Medieval; 
+Exploration **:
+
+  * [https://www.youtube.com/watch?v=XZO331MAAi0]
+  * [https://www.youtube.com/watch?v=wGqJseFSWbA]
+
+---
+
+## 🔊 Effetti Sonori
+
+* **Underwater** di freesound\_community; 
+[https://pixabay.com/sound-effects/underwater-6236/]
+* **SFX ** di freesound\_community; 
+[https://pixabay.com/?utm\_source=link-attribution\&utm\_medium=referral\&utm\_campaign=music\&utm\_content=14814]
+* **SFX ** di David Dumais; 
+[https://pixabay.com/?utm\_source=link-attribution\&utm\_medium=referral\&utm\_campaign=music\&utm\_content=185435]
+* **SFX ** di David Dumais; 
+[https://pixabay.com/sound-effects/?utm\_source=link-attribution\&utm\_medium=referral\&utm\_campaign=music\&utm\_content=185432]
+* **SFX ** di u\_xjrmmgxfru; 
+[https://pixabay.com/sound-effects/?utm\_source=link-attribution\&utm\_medium=referral\&utm\_campaign=music\&utm\_content=266299]
+* **Tyler J Warren SFX**; 
+[https://tylerjwarren.itch.io/]
+RPG Maker MV UPP Windowskin Pack by theunpropro
+https://theunpropro.itch.io/rpg-maker-mv-upp-windowskin-packpg
+
+SFX  by freesound_community 
+https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=45475
+---

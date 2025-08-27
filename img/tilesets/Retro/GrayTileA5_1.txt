@@ -1,0 +1,128 @@
+None
+Diagonal street tile
+Grass
+Brick road
+Water tile
+Flat dirt
+Ornate floor tile 1
+Ornate floor tile 2
+Stairs
+Square floor
+Cliff wall tile
+Dirt tile 1
+Dirt tile 2
+Wooden floor
+Ornate floor tile 3
+Ornate floor tile 4
+Left cliff wall
+Right cliff wall
+Darker Brick road
+Mirror floor
+Canopy plant tile
+Rocky dirt tile
+Flora
+Cave opening
+Grass and left side cliff tile
+Grass and right side cliff tile
+Bookshelf upper
+Futuristic floor tile
+Flat land
+Tower wall
+Stairs railing
+Stairs railing
+Dirt to cliff base
+Grass
+Bookshelf lower
+Desert sand
+Volcano stone floor
+Volcano stone floor with lava
+Tower wall with window
+Ornate wall upper
+Grass cliff corner
+Grass cliff upper
+Grass cliff corner
+Stone floor
+Stone floor 2
+Cave exit with light
+Tower wall base
+Ornate wall middle
+Grass cliff left side
+Grass cliff center
+Grass cliff right side
+None
+None
+Dark tiled floor
+Tiled floor
+Ornate wall base
+Grass cliff corner
+Grass cliff lower
+Grass cliff corner
+Dirt cliff upper corner
+Dirt cliff upper
+Dirt cliff upper corner
+Left stairs
+Right stairs
+Brick arch set 1
+None
+Brick arch set 2
+Dirt cliff left
+Dirt cliff center
+Dirt cliff right
+Cabinet upper
+None
+Brick arch set 3
+None
+Brick arch set 4
+Dirt cliff corner
+Dirt cliff lower
+Dirt cliff corner
+Cabinet lower
+None
+Left stairs
+Left stairs with railing
+Ornate railing
+Right stairs with railing
+Right stairs
+Stairs Wall
+Ornate Wall Arch 1
+Ornate Wall Arch 2
+Left stairs base
+Stairs wall base left
+Stairs wall base
+Stairs wall base right
+Right stairs base
+Bordered floor tile left
+Bordered floor tile center
+Bordered floor tile right
+Brick wall piece
+Brick wall clock
+Brick wall wood beams left
+Brick wall wood beams
+Brick wall wood beams right
+Brick wall wood beams bottom corner
+Brick wall base
+Brick wall wood beams bottom corner
+Temple Pillar upper corner
+Temple wall upper
+Temple Pillar upper corner
+Curtain upper left
+Curtain upper right
+None
+None
+None
+Temple Pillar center left
+Temple wall center
+Temple Pillar center right
+Curtains left
+Curtains right
+Window upper
+None
+None
+Temple Pillar left bottom
+Temple wall bottom
+Temple Pillar right bottom
+Curtains left bottom
+Curtains right bottom
+Window lower
+None
+None

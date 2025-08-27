@@ -1,0 +1,264 @@
+None
+Half Stairs
+Stairs
+Half wall
+Wooden floor
+Grating
+Wall
+Dark wooden floor
+Railing
+Railing
+Front of Ship
+Front of Ship
+None
+None
+None
+None
+Top right siding
+Top left siding
+Front of Ship
+Front of Ship
+Curve left
+Curve right
+None
+None
+Top right siding
+Top left siding
+Front of Ship
+Front of Ship
+None
+None
+None
+None
+Left siding
+Right siding
+None
+None
+None
+None
+None
+None
+Left siding
+Right siding
+None
+None
+None
+None
+None
+None
+Left siding
+Right siding
+None
+None
+None
+None
+None
+None
+Left siding
+Right siding
+None
+None
+None
+None
+None
+None
+Left siding
+Right siding
+None
+None
+None
+None
+None
+None
+Left siding
+Right siding
+None
+None
+None
+None
+None
+None
+Left siding
+Right siding
+None
+None
+None
+None
+None
+None
+Left siding
+Right siding
+None
+None
+None
+None
+None
+None
+Left siding
+Right siding
+None
+None
+None
+None
+None
+None
+Left siding
+Right siding
+None
+None
+None
+None
+None
+None
+Left siding
+Right siding
+None
+None
+None
+None
+None
+None
+Left siding
+Right siding
+None
+None
+None
+None
+None
+None
+Small pillar top
+Large pillar top
+Thin Beams
+Thin Beams
+Thin Beams
+Ship front
+Ship front
+Ship front
+Small pillar bottom
+Large pillar middle
+Thick Beams
+Thick Beam
+Thick Beams
+Ship front
+Ship front
+Ship front
+None
+Large pillar bottom
+None
+None
+None
+Ship Front
+Ship front
+Ship front
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

@@ -1,0 +1,32 @@
+Grass
+Mountains
+Cave entrance
+Town street
+None
+Carpet 1
+Wooden Fence
+Wooden table
+Rocky floor
+None
+Denser grass
+Tall grass
+None
+Carpet 2
+None
+Futuristic Table
+Trees 1
+Grass/Dirt path
+Light rocky
+Swamp
+None
+Carpet 3
+None
+None
+Trees 2
+None
+Tall grass 2
+Swamp 2
+None
+Warning floor tile
+None
+None

@@ -1,0 +1,255 @@
+Empty
+Town top left
+Town house
+Town houses
+Town top right
+Overworld Tree
+Fence top corner
+Fence top
+Mediterranean house
+Town bottom left
+Empty
+Empty
+Town bottom right
+Fountain
+Fence mid left
+None
+Cathedral top left
+Cathedral top right
+Fort
+Tower top
+Farm top left
+Farm top right
+Fence bottom corner
+Fence bottom
+Cathedral Bottom left
+Cathedral Bottom right
+House
+Tower Bottom
+Farm bottom left
+Farm bottom right
+Railing top corner
+Railing top middle
+Graveyard top left
+Graveyard top right
+Castle top left
+Castle top right
+Japanese tower top
+Ruins
+Railing top corner (lower)
+Railing top middle (lower)
+Graveyard bottom left
+Graveyard bottom right
+Castle bottom left
+Castle bottom right
+Japanese center tower
+Skyscrapers top
+Railing left
+None
+Castle walls top corner
+Castle walls top
+Castle walls top corner
+Japanese house
+Japanese tower base
+Skyscrapers bottom
+Railing bottom corner
+Railing bottom
+Left Castle Walls
+None
+Right Castle Walls
+Floating city top left
+Floating city top right
+Lighthouse top
+Balcony fence
+Balcony fence
+Castle walls bottom corner
+Castle walls bottom
+Castle walls bottom corner
+Floating city bottom left
+Floating city bottom right
+Lighthouse Bottom
+Balcony bottom
+Balcony bottom
+Port north
+Castle Decoration
+Castle Decoration
+Awning
+Awning
+Awning
+Upper fence corner
+Upper fence mid
+Port south
+Vertical bridge
+None
+Brick Arch top
+Brick Arch top
+Brick Arch top
+Flying Buttress
+Flying Buttress
+Port west
+Horizontal bridge
+None
+Brick Arch bottom
+None
+Brick Arch bottom
+Flying Buttress
+Flying Buttress
+Port east
+None
+Chimney top
+None
+None
+None
+None
+None
+Gravestone
+None
+Chimney middle
+None
+None
+None
+Pillar top
+Pillar top
+Ruined town
+Pipes
+Chimney bottom
+None
+None
+None
+Pillar middle
+Pillar middle
+None
+Pipes
+Connection
+None
+None
+None
+Pillar base
+Pillar base
+Fence top corner
+None
+None
+None
+None
+Stairs
+Stairs
+None
+Fence right
+None
+None
+None
+None
+Roof
+Roof
+None
+Fence bottom corner
+None
+None
+None
+None
+Roof
+Roof
+None
+Railing top corner
+None
+None
+None
+None
+Roof
+Roof
+None
+Railing top corner (lower)
+None
+None
+None
+None
+Roof
+Roof
+None
+Railing side
+None
+Bridge
+Bridge
+Bridge
+Bridge
+Bridge
+None
+Railing bottom corner
+None
+Bridge
+Bridge
+Bridge
+Bridge
+Bridge
+None
+Balcony
+None
+Bridge
+Bridge
+Bridge
+Bridge
+Bridge
+None
+Balcony bottom
+None
+None
+None
+None
+None
+None
+None
+Railing
+Railing edge
+Railing edge
+Lower Railing
+Lower Railing
+Lower Railing
+Lower Railing edge
+Lower Railing edge
+Flying Buttress
+Flying Buttress
+Flying Buttress
+Flying Buttress
+Gear pole horizontal
+Gear pole vertical
+Gondola lift
+Gondola lift
+Flying Buttress
+Flying Buttress
+Flying Buttress
+Flying Buttress
+Gear
+Gear
+Gondola lift
+Gondola lift
+None
+None
+Flying Buttress
+Flying Buttress
+None
+Gear
+Gondola lift
+Gondola lift
+Pillar top
+Column top
+Flying Buttress base
+Flying Buttress base
+Arch top
+None
+Gondola lift bottom
+Gondola lift bottom
+Pillar bottom
+Column bottom
+Ornate vase top
+Rune stone top
+Arch column
+None
+None
+None
+Chair
+Ornate vase bottom
+Rune stone bottom
+Arch base
+Gondola lift line
+None
+None

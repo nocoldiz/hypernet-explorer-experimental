@@ -1,0 +1,12 @@
+Terms of Use:
+You can only use those edits in an RPG Maker product and you have to have RPG Maker MZ. Free for non-commercial and commercial projects. You need to credit me!
+You need to send me a copy of your finished game, if you do a commercial project.
+Feel free to further edit everything, but do not share your edits or share my originals without my permission.
+My resources can be used in NSFW and R rated games.
+
+Credits to: Candacis
+
+Please be aware that not every tile is plug and play, some images might have to be inserted first in a proper tileset format in order to work in your RPG Maker Project. There are free graphic softwares available that can do that like Gimp or Krita.
+
+If you want to show your appreciation, I'm always grateful for feedback (even negative, don't be shy, I wanna improve) or screenshots of maps/scenes where you used my tiles.
+You can post it in my MZ resource thread: https://forums.rpgmakerweb.com/index.php?threads/candacis-resources-for-mz.126137/

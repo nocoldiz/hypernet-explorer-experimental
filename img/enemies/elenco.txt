@@ -1,0 +1,641 @@
+Actor2-0
+Actor2-5
+Alien Explorer
+Alien
+Angel of the Dark
+Angry Star
+AquaticFish
+Baby Dragon
+Baby Sea Turtle
+Bat Slime
+bat
+BatBall1
+BatBall2
+BatBall3
+Bear
+Beckoning
+BeeOhm
+Beep
+Beep2
+Beep3
+Behemoth
+Beholder Basic
+Beholder Great
+Beholder1
+Beholder2
+Beholder3
+BellGoblin
+Big Mushroom V2
+Big Mushroom
+BigCrab
+Bird
+Bite Fish
+Black Ancient
+Black Birdi
+Black Bot
+Black Bug
+Black Candle
+Black Chomp Plant
+Black Crab
+Black Dancer
+Black Demon Skele
+Black Demoness
+Black Doll Dancing
+Black Eyes
+Black Fighter
+Black Flame
+Black Genie
+Black Hand
+Black Holler
+Black Hulking
+Black Inquisition
+Black Intimidator
+Black Jelly
+Black Joy
+Black Jump
+Black Kablam
+Black Menace
+Black Mini-Bot
+Black Mouth
+Black One-Eye
+Black Peeper
+Black Pixie
+Black Reaper
+Black Revel
+Black Salesman
+Black Scare
+Black Scratchy
+Black Scream
+Black Sea Crawler
+Black Skele-heart
+Black Skull
+Black Sleek
+Black Slime
+Black Slither
+Black Spikey
+Black Stalker
+Black Tortoola
+Black Turtle Creeper
+Black Turtle-man
+Black Walker
+Black Wasp-Man
+Black Wiggles
+Black Wolf
+Blank Emergence
+Blick
+BloodSucker
+Blue Dragon
+Blue Flame Skull v2
+Blue Flame Skull
+Blue Flayer
+Blue Frog
+Blue Octo
+Blue Spikey Knight
+Blue Wraith
+bluefish1
+bluefish2
+bluefish3
+Boar
+Book Slime
+Bottom Creeper
+Brain Slime 2
+Brain Slime
+Brick Slime 1
+Brick Slime 2
+Brown Kobold
+Bubbles McFish
+Bucket Crab
+Bugbear
+Buggy
+Butterfly
+ButterflyMan
+Cactus
+Calm
+Caped Eagle
+Catsnail
+centidragon1
+centidragon2
+centidragon3
+Centislide
+Chaos Orb
+Charging Knight
+Chimera
+Chomp Plant
+Chomp Plant2
+Chomp Sprout 2
+Chomp Sprout
+Chopper
+Chubby Bunny
+Chubby
+Claw Machine
+Clay Slime
+Cliff
+Cliff2
+Cliff3
+Club Troll
+cockatrice
+CorruptedAngel
+Coward
+Crabbs Grab
+Crawler
+Crayona
+CreaturaBifronteInStileMacabro
+Creep Eye
+Creeper
+Creeper2
+Creeper3
+CrimsonHarvester
+Critter
+Crow
+Cyclops Brother
+Cyclops Sister
+Cyclops1
+Cyclops2
+Cyclops3
+Dancing Bear
+Dark Slime 1
+Dark Slime 2
+Dark Slime 3
+Darkee
+darklord
+death
+Decay
+Deep Crab
+Demon Slime
+Demon Wisp
+demon
+Demon2
+DemonFrog
+Dino Bite
+Djinn
+Dog
+Doll1
+Doll2
+Draco
+Dracomancer
+Dragon Hawk
+Dragon
+dragon2
+DragonFighter
+Drakee
+DrillTop
+Dust Ball
+Earth Elemental
+Earth Hand
+Earth King
+Earth Orb
+elenco.txt
+Elephant
+Elk
+Emperor Slime
+Evil Ghost
+EvilGod
+Evilking
+Experiment 616
+Eyes
+Fairy
+FallenHero
+Farm5
+Father Slime v2
+Father Slime
+Female Djinn
+Fin Slime
+Fingers
+Fire Elemental
+Fire Flame v2
+Fire Flame
+Fire Orb
+fish1
+fish2
+fish3
+Flame
+FlameFrost Dragon
+Flaming Bear
+Flaming Skull
+Flaming Snowman
+Flayer Evo1
+Flayer Evo2
+Flayer Evo3
+Flayer Evo4
+Flippy
+Floating Jelly
+FloatingRat
+Flower
+Flower1
+Flower2
+Flower3
+Formal Beholder
+Four Walker
+Franken Slime 1
+Franken Slime 2
+fungusaur
+Furr1
+Furr3
+Fury
+Gator
+gayzer
+Gemshell
+Ghost View1 v2
+Ghost View1
+Ghost View2 v2
+Ghost View2
+ghost
+Ghost2
+Giant
+Glare view1
+Glare view2
+Glaring Sting
+Glow Bell Shroom
+Glow Bug 1
+Glow Bug 2
+Glow Bug 3
+Glow Bug 4
+Glow Bug 5
+Glow Bug 6
+Glow Bug 7
+Goblin
+GoblinBoss
+GoblinMage
+GoblinShaman.aseprite
+GoblinShaman
+Gold Bar
+Gold Bot
+Gold Drop
+Gold Man
+Gold Manv2
+Gold Manv3
+Gold Manv4
+Gold Nugget
+Gold Slime
+Golden Eagle
+Golden Gator
+Golden Insect Boss
+Golden Spikey Knight
+Golden Statue
+GoldenFox
+Goldfish
+GoldHawk
+Goyle
+Grabber
+Grass Slime
+Grater
+Graterv2
+Gray Bat
+Gray Bird
+Gray Spider
+Gray Wolf
+Green Creeper
+Green Cyclops Worm
+green dragon
+Green Dragon2
+Green Raptor
+Green Red Raptor
+Green Slime
+Grey Falcon
+Grotesque Slime 1
+Grotesque Slime 2
+Ground
+Gum Slime 1
+Gum Slime 2
+Halloween
+Hammerman
+Happy Bomb
+Haunting
+Headless Jacko
+Healer
+Healer2
+Heckler
+Hex Bot
+HolyWoman.aseprite
+Horn Slime
+Horned Dragon
+hornet
+Hornet2
+HumpBack
+HydraBird.aseprite
+Ice Slime 1
+Ice Slime 2
+icelady
+ifrit
+imp
+ink1
+ink1v2
+ink1v3
+ink2
+ink2v2
+ink2v3
+ink3
+ink3v2
+ink3v3
+IT
+Jack
+Jacko Head
+Jacko
+Jelly1
+Jelly2
+Jelly3
+jellyfish
+JellyPlant
+JellyPlant2
+Keebler v2
+kerberos
+Kill Bot
+Kinder
+King Crab
+King Slime
+Krababble
+Krabasher
+Kragadon
+L1
+L2
+L3
+Lady Dark
+Lady Slime
+Ladybug
+lamia
+Large Mimic
+LavaSlime
+Lem.aseprite
+Lightbulb Slime
+LightFish
+LightFish2
+Lil Reaper
+Litch King V1
+Litch King V2
+Litch
+Little Demon
+Little Devil
+Little Mushroom V2
+Little Mushroom
+Little Red Giant
+Little Red Mage Rider
+Little Red Mage
+little sahagin
+Little Turtle
+Little Turtle2
+LittleDragon
+Lizard Man Green
+Lizard Man Red
+Lizard v2
+Lizard
+Mage Slime 1
+Mage Slime 2
+Magi Drageen
+MagnoBot Advanced
+MagnoBot Basic
+Mallow
+Mallow2
+Mantis
+Mastermind
+Metal Crab
+Mimic
+MimicCake
+Mimicerica
+MiniMage
+Minotaur
+Moe
+MotherHorror.aseprite
+MotherHorror
+Mouse
+Ms Red Cyclops
+Mud Slime View1
+Mud Slime View2
+Mud Slime View3
+Mushroom
+Mushroom2
+Mushroom3
+MushroomAlt
+Nebulan
+Nebulan2
+Nega Ghost
+Nega Snowman
+Neon Wiggler
+Nickel Man
+Ninja
+Nyarlatoteph.aseprite
+Nyarlatoteph
+Octo1
+Octo2
+Octo3
+OctoBoss
+Octopot
+OctopotB
+ogre
+Old Slime 1
+Old Slime 2
+Old Squash
+Old Turtle
+Orange Head
+Orange Insect Boss
+Orange Shroom
+Orange Snail
+Orange Spikey
+Orange Worm
+Orc
+Peep Spike
+Pentopus
+PetRock
+Phoenix.aseprite
+Phoenix
+Phoenix2
+Pink Devil Dog
+Pink Slime v2
+Pink Slime
+Pink Worm
+Pino.aseprite
+Pino
+Pirana
+plank
+plant
+plantblue
+Plantee
+Prisoner Zero
+Pumpkin Slime
+Punkin
+Purple Demon
+Purple Menace
+Quasar
+Rad Monster
+Rad Raptor
+Rad
+Rainbow Slime
+rat
+Red Bird
+Red Crab
+Red Demon (Blue Variant)
+Red Demon
+red dragon
+Red Knight
+Red Raptor
+Rockman
+RoyalSlug
+Ruffle
+sahagin
+Sand Slime
+Saw Serpent v2
+Saw Serpent
+Scarecrow
+scarecrow1
+scarecrow1v2
+scarecrow2
+scarecrow2v2
+scarecrow3
+scarecrow3v2
+Scary Pumpkin
+Schoomy
+scorpion
+Scorpion2
+Sea Monster
+SeaWorm
+SeaWorm2
+Seeing Slime
+Seekerbot.aseprite
+Shadow Dragon
+Shadow Ogre
+Shell Power
+Shell Shy
+Sickum
+Six Walker
+Skeleton
+Skeleton2
+Skitter Bot
+Skitter
+Sklug
+Sklug2
+Skull
+Skull2
+Sky Dragon
+Sleek
+SleepingEel
+Slide
+Slime View1
+Slime View2
+Slime View3
+slime
+slimegreen
+Slimer.aseprite
+Slimer
+Slimestack
+Slug
+Slug2
+Sluggish
+Small Green Beholder 2
+Small Green Beholder
+Small Mimic
+Smoke Eye
+Snail View1
+Snail View2
+Snail View3
+snake
+Snow Boss
+snow flurry
+Snow Slime
+SnowBall
+SnowBear
+Spaghetti.aseprite
+Spaghetti
+Spider Lady
+spider
+SpiderBald.aseprite
+SpiderBald
+SpikeBall
+Spikey Slime v2
+Spikey Slime
+Spikey Turtle
+Squash Slime
+Squid
+Squid2
+Squid3
+Standing Skeleton
+Starbeing.aseprite
+Starbeing
+Steel Slime
+Stone Golem
+Stonehead
+Strider
+Stump
+succubus
+succubus2
+Sun Dragon
+Sun Slime
+Sunflower
+Swamp Creeper
+Sword Slime
+Tangram.aseprite
+Tangram
+Tar Slime
+Teddy
+Terror Version 2
+Terror
+Thanos Slime
+The Dark
+The Slime
+Thief
+Thing in a Jar
+Thunder
+Toad
+Treant
+Treant2
+Tree Golem
+Troll
+Turtle Slime
+Turtle1
+Turtle2
+Turtle3
+Tusk
+Twisted Santa Cap
+Two Headed Ogre
+Vampire
+Void Fish
+Void Flyer
+Void Seuss
+Void Snake
+Void Spider
+Void Squirrel
+Void Turtle
+Void Virus
+Waiting Shade
+Walking Turtle
+Water Elemental
+Water Orb
+WaterSprite.aseprite
+WaterSprite
+Wave Slime
+Weed
+Whip Weed
+White ghost
+White Kobold
+White Wolf
+WhiteDragon v2
+WhiteDragon
+wiggler
+Wild Growth
+Wind Elemental
+Wind Orb
+Winged Dragon
+WingedImp.ase
+WingedImp
+Wisp View1
+Wisp View2
+Wisp View3
+Witch
+Wizard Black
+Wizard Blue
+Wizard Green
+Wizard Red
+Wizard White
+Wooden Slime 1
+Wooden Slime 2
+Wraith (Ghost 2)
+Wraith
+Wrinkles
+Wyvern
+Wyvern2
+Yanflayer
+Yanfly
+Yanpi
+Yellow Cyclops
+Yeti1
+Yeti2
+Yeti3
+Zombie

@@ -1,0 +1,254 @@
+None
+Item Flower
+Grapes
+Plant wall growth
+Leaves
+Flower
+Flower
+Flower
+Flower
+Flower
+Flower
+Flower
+Flower
+Flower
+Flower
+Vines
+Top of tree
+Top of tree
+Top of swamp tree
+Top of palm tree
+Top of pine tree
+Top of willow tree
+Top of willow tree
+Empty
+Bottom of tree
+Bottom of tree
+Bottom of swamp tree
+Bottom of palm tree
+Bottom of palm tree
+Bottom of willow tree
+Bottom of willow tree
+Empty
+Rock
+Small stalagmite
+Top of Stalagmite
+Rock pillar top
+Gems
+Cavern pit fall
+Cliff side top
+Cliff side top
+Rock with plant
+Spiky rock
+Bottom of Stalagmite
+Rock pillar bottom
+Mushroom
+Mushrooms
+Cliff side bottom
+Cliff side bottom
+Empty
+Cactus top
+Coral
+Clam
+Shell
+Starfish
+Bush
+Bush
+Mini cactus
+Cactus bottom
+Bones left
+Bones right
+Ribs
+Lily pad
+Empty
+Empty
+Vines
+Vines
+Vines
+Empty
+Empty
+Empty
+Empty
+Empty
+Vines
+Vines
+Empty
+Toilet top
+Empty
+Empty
+Vending machine top
+Empty
+Floor lamp
+Foot locker
+Vent
+Toilet bottom
+Satellite top
+Satellite top
+Vending Machine bottom
+Empty
+Fusebox
+ID scan
+Camera
+Camera
+Satellite bottom
+Satellite bottom
+Container
+Empty
+Projected screen
+Projected screen
+Projected screen
+Computer top
+Locker top
+Pillar top
+Stasis Chamber top
+Empty
+Projected screen
+Projected screen
+Projected screen
+Computer base
+Locker bottom
+Pillar
+Stasis Chamber bottom
+Empty
+Monitor
+Monitor
+Thing.
+Thing.
+Thing.
+Pillar base
+Water cooler top
+Empty
+Mounted computer
+Plaque
+Barrel
+Clock
+Light
+Container
+Water cooler bottom
+Empty
+Table
+Table
+Table
+Chair
+Wardrobe top
+Bookcase top
+Bookcase top
+Cabinet top
+Table
+Table
+Table
+Chair
+Wardrobe bottom
+Bookcase bottom
+Bookcase bottom
+Cabinet bottom
+Table
+Table
+Table
+Mini table
+Painting
+Painting
+Mirror top
+Grandfather clock top
+Crate
+Barrel
+Vase
+Alchemy set
+Painting
+Painting
+Mirror bottom
+Grandfather clock bottom
+Barrel
+Statue top
+Clock
+Potion shelf
+Potted plant top
+Potted tree top
+Potted plant top
+Boiler
+Statue bottom
+Pot
+Empty
+Potted plant bottom
+Potted tree bottom
+Potted plant bottom
+Potted plant bottom
+Window top
+Window
+Window
+Window
+Curtain
+Curtain
+Tall curtain top
+Tall curtain top
+Window bottom
+Window
+Window
+Window
+Empty
+Empty
+Tall curtain bottom
+Tall curtain bottom
+Empty
+Torn banner top
+Torn banner top
+Flag
+Fountain top
+Fountain top
+Skull chair top
+Throne top
+Empty
+Torn banner bottom
+Torn banner bottom
+Flag
+Fountain bottom
+Fountain bottom
+Skull chair bottom
+Throne bottom
+Statue top
+Statue top
+Bird statue top
+Bird statue top
+Robe
+Sword
+Sword
+Gear
+Statue bottom
+Statue bottom
+Bird statue bottom
+Bird statue bottom
+Staff
+Ring
+Wing
+Potion
+Empty
+Prisoner bed
+Book
+Book
+Torch top
+Torch top
+Lamp post top
+Empty
+Chain link
+Empty
+Glass
+Lamp
+Torch bottom
+Torch bottom
+Lamp post bottom
+Chimney
+Minecart
+Fence
+Fireplace top
+Fireplace top
+Inn sign
+Weapon shop sign
+Sign
+Pipe
+Empty
+Ball and chain
+Fireplace bottom
+Fireplace bottom
+Armor shop sign
+Item shop sign
+Sign

@@ -1,0 +1,46 @@
+#target photoshop
+
+// Create a reference to the active document
+var doc = app.activeDocument;
+
+// Duplicate the document to preserve the original
+var duplicateDoc = doc.duplicate("Split Images", true);
+
+// Get the first layer
+var layer = duplicateDoc.activeLayer;
+
+// Set the tolerance for transparent pixels
+var tolerance = 0;
+
+// Function to split transparent images into layers
+function splitLayerIntoImages() {
+    var bounds = layer.bounds;
+    var width = bounds[2] - bounds[0];
+    var height = bounds[3] - bounds[1];
+
+    // Loop through all pixels in the layer
+    for (var x = 0; x < width; x++) {
+        for (var y = 0; y < height; y++) {
+            // Set a sample point and check if the pixel is transparent
+            var samplePoint = [x + bounds[0], y + bounds[1]];
+            var pixelColor = layer.pixelColorAt(samplePoint);
+
+            // If the pixel is not transparent (alpha != 0), isolate that area
+            if (pixelColor.alpha > tolerance) {
+                // Create a selection based on this non-transparent region
+                var selection = duplicateDoc.selection.select([[x, y], [x+1, y], [x+1, y+1], [x, y+1]]);
+                
+                // Duplicate this selection to a new layer
+                duplicateDoc.selection.copy();
+                var newLayer = duplicateDoc.artLayers.add();
+                duplicateDoc.paste();
+
+                // Now deselect and continue the process
+                duplicateDoc.selection.deselect();
+            }
+        }
+    }
+}
+
+// Run the function
+splitLayerIntoImages();
